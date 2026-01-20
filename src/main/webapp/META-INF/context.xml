@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Context path="/bussinestaskweb-1.0-SNAPSHOT"/>
+<Context path="/bussinestaskweb" reloadable="true"/>
+

@@ -4,14 +4,19 @@
     Author     : Admin
 --%>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
-    </head>
-    <body>
-        <h1>Hello World!</h1>
-    </body>
+<head>
+    <title>Bienvenido a MyWebApp</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Bienvenido a MyWebApp</h1>
+    <nav>
+        <ul>
+            <li><a href="users">Lista de Usuarios</a></li>
+            <li><a href="users?action=new">Crear Usuario</a></li>
+        </ul>
+    </nav>
+</body>
 </html>
