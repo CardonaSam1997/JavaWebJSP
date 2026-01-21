@@ -15,34 +15,12 @@ Aqui se hizo la integracion del backend creado en el punto anterior *Codificaci�
 http://localhost:8080/bussinestaskweb/
 
 # Evidencia GA7-220501096-AA2-EV02
-
 Módulos de software codificados y probados  
 
 ### Descripción general
-
-Para esta evidencia se desarrolló el módulo de acceso a datos del sistema, implementando la conexión a bases de datos mediante JDBC, de acuerdo con lo visto en el componente formativo “Construcción de aplicaciones con Java”.
-
-El desarrollo se enfoca en la codificación del módulo, aplicando una arquitectura por capas, específicamente la capa de persistencia (DAO), la cual permite la gestión de datos del sistema.
-
-## Alcance de la evidencia
-El alcance de esta evidencia incluye:
-- Implementación de conexión a base de datos usando JDBC
-- Aplicación del patrón DAO
-
-## Desarrollo de operaciones CRUD:
-- Inserción
-- Consulta
-- Actualización
-- Eliminación
-
-## Cumplimiento de estándares de codificación:
-- Nombramiento de clases
-- Métodos
-- Variables y paquetes
-
+Para esta evidencia se desarrolló el front-end para probar las funcionalidades creadas en el modulo anterior 
 Uso de herramientas de versionamiento de software
-
-La capa de presentación (Servlets o interfaz gráfica) no se incluye, ya que no forma parte del alcance definido para esta evidencia, la cual se centra exclusivamente en la lógica de acceso a datos.
+Capa de presentación (Servlets o interfaz gráfica)
 
 # Tecnologías utilizadas
 - Java
@@ -56,7 +34,6 @@ La capa de presentación (Servlets o interfaz gráfica) no se incluye, ya que no
 - Boostrap
 
 # Script de base de datos
-
 -- Crear base de datos
 CREATE DATABASE IF NOT EXISTS bussines_task;
 
