@@ -1,8 +1,6 @@
 ## 
 Se creo un nuevo repositorio porque el anterior no es una aplicacion Web
 y no se elimina porque ya se entrego.
-
-Aqui se hizo la integracion del backend creado en el punto anterior *Codificación de módulos del software según requerimientos del proyecto* con *Módulos de software codificados y probados*
 -------------------------------------------------------------------------------
 
 ## PASOS PARA EL DESPLIEGUE
@@ -18,9 +16,9 @@ http://localhost:8080/bussinestaskweb/
 Módulos de software codificados y probados  
 
 ### Descripción general
-Para esta evidencia se desarrolló el front-end para probar las funcionalidades creadas en el modulo anterior 
+Aqui se hizo la integracion del backend creado en el punto anterior *Codificación de módulos del software según requerimientos del proyecto* con *Módulos de software codificados y probados*
+Se desarrolló el front-end para probar las funcionalidades
 Uso de herramientas de versionamiento de software
-Capa de presentación (Servlets o interfaz gráfica)
 
 # Tecnologías utilizadas
 - Java
